@@ -22,7 +22,7 @@ My work focuses on microcontrollers, fpgas, hardware interfaces, and modular rob
   - BeagleBone Black high-level + custom MCU boards for modular robotics
 - **RP2040 HID Wii Classic Controller**
   - I2C device interface + USB HID emulation using CircuitPython
-- **GBA Cart Reader (FPGA/Verilog)**
+- **FPGA Modular Control System (FPGA/SystemVerilog)**
   - RTL project structure; documentation improvements in progress
 
 ## What I’m Looking For
