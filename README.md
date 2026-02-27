@@ -19,10 +19,13 @@ My work focuses on microcontrollers, fpgas, hardware interfaces, and modular rob
 • MSP430, PIC18, RP2040
 • BeagleBone Black (Embedded Linux)
 
+My projects focus on building modular control systems where embedded firmware,
+communication interfaces, and FPGA RTL cooperate to control real-world hardware.
+
 ## Featured Work
 - **Precision Motor Controller (PIC18F46K22 + LM629 + H-bridge + isolation)**
   - Trajectory control pipeline, SPI comms, schematics included
-- **FPGA Modular Control System (FPGA/SystemVerilog)**
+- **FPGA Modular Control System (SystemVerilog RTL, UART/SPI/PWM peripherals)**
   - RTL project structure; documentation improvements in progress
 - **Signal Distribution / Serial Port Expander (UART ↔ SPI hub)**
   - Command routing architecture for modular subsystems
