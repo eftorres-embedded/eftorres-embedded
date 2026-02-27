@@ -35,5 +35,5 @@ My work focuses on microcontrollers, fpgas, hardware interfaces, and modular rob
   - RTL project structure; documentation improvements in progress
 
 ## What I’m Looking For
-Embedded firmware, controls/robotics, or hardware–software integration roles focused on
-microcontroller-based systems.
+Embedded systems, FPGA/digital design, robotics, or hardware–software
+integration roles involving real-world hardware platforms.
